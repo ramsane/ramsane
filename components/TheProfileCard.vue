@@ -9,7 +9,7 @@
             :size="miniVarient ? 36 : 62"
             v-on="on"
           >
-            <img src="profile.jpg" />
+            <img src="@/static/profile.jpg" />
           </v-avatar>
         </template>
         <span>Ramana Reddy Sane</span>
